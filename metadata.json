@@ -1,0 +1,7 @@
+{
+  "name": "《8、7、6加几》互动课件",
+  "description": "基于凑十法逻辑的交互式小学数学课件，包含虚拟搬运、枝形图分解、圈一圈算一算等互动环节。",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
